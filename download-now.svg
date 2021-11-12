@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="450mm"
+   height="100mm"
+   viewBox="0 0 450 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="download-now.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.13140081"
+     inkscape:cx="159.81636"
+     inkscape:cy="-262.55545"
+     inkscape:window-width="1340"
+     inkscape:window-height="699"
+     inkscape:window-x="10"
+     inkscape:window-y="53"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="220.32498"
+       y="188.06921"
+       width="1488.949"
+       height="530.20044"
+       id="rect2840" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#456186;fill-opacity:1;stroke-width:0.281121"
+       id="rect846-6"
+       width="414.73953"
+       height="80.601234"
+       x="17.630234"
+       y="15.650474"
+       ry="27.518063" />
+    <rect
+       style="fill:#5e81ac;fill-opacity:1;stroke-width:0.281121"
+       id="rect846"
+       width="414.73953"
+       height="80.601234"
+       x="17.630234"
+       y="9.6993828"
+       ry="27.518063" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,29.598017,-16.293628)"
+       id="text2838"
+       style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2840);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="220.32422"
+         y="294.24023"
+         id="tspan29250"><tspan
+           style="font-weight:bold;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#e5e9f0"
+           id="tspan29248">DOWNLOAD NOW!</tspan></tspan></text>
+    <g
+       id="g28821"
+       style="fill:#e5e9f0;fill-opacity:1"
+       transform="matrix(0.68418902,0,0,0.68418902,23.925561,2.2347035)">
+      <rect
+         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.264583"
+         id="rect27136"
+         width="46.841354"
+         height="11.45725"
+         x="60.90424"
+         y="25.685717"
+         ry="4.5279822"
+         transform="rotate(45)" />
+      <rect
+         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.264583"
+         id="rect27136-0"
+         width="46.841354"
+         height="11.45725"
+         x="-37.142967"
+         y="96.288345"
+         ry="4.5279822"
+         transform="rotate(-45)" />
+      <rect
+         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.287734"
+         id="rect27136-0-3"
+         width="55.397404"
+         height="11.45725"
+         x="-94.443176"
+         y="43.804672"
+         ry="4.5279822"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>
