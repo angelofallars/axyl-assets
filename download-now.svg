@@ -7,8 +7,8 @@
    viewBox="0 0 450 100"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    sodipodi:docname="download-now.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.13140081"
-     inkscape:cx="159.81636"
-     inkscape:cy="-262.55545"
+     inkscape:zoom="0.26280163"
+     inkscape:cx="833.32817"
+     inkscape:cy="173.13439"
      inkscape:window-width="1340"
      inkscape:window-height="699"
      inkscape:window-x="10"
@@ -46,7 +46,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#456186;fill-opacity:1;stroke-width:0.281121"
+       style="fill:#325584;fill-opacity:1;stroke-width:0.281121"
        id="rect846-6"
        width="414.73953"
        height="80.601234"
@@ -54,7 +54,7 @@
        y="15.650474"
        ry="27.518063" />
     <rect
-       style="fill:#5e81ac;fill-opacity:1;stroke-width:0.281121"
+       style="fill:#4e7fbc;fill-opacity:1;stroke-width:0.281121"
        id="rect846"
        width="414.73953"
        height="80.601234"
@@ -68,9 +68,9 @@
        style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2840);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="220.32422"
          y="294.24023"
-         id="tspan29250"><tspan
+         id="tspan29951"><tspan
            style="font-weight:bold;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#e5e9f0"
-           id="tspan29248">DOWNLOAD NOW!</tspan></tspan></text>
+           id="tspan29949">DOWNLOAD NOW!</tspan></tspan></text>
     <g
        id="g28821"
        style="fill:#e5e9f0;fill-opacity:1"
