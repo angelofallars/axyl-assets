@@ -18,13 +18,13 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter31104"
-       x="-0.11522454"
-       y="-0.2765389"
-       width="1.2304491"
-       height="1.5530778">
+       x="-0.136"
+       y="-0.3264"
+       width="1.272"
+       height="1.6528">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="4.6089814"
+         stdDeviation="5.44"
          id="feGaussianBlur31106" />
     </filter>
   </defs>
@@ -37,9 +37,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.077233"
-     inkscape:cx="-8.3547385"
-     inkscape:cy="-6.9622821"
+     inkscape:zoom="4.308932"
+     inkscape:cx="46.879366"
+     inkscape:cy="68.114326"
      inkscape:window-width="1340"
      inkscape:window-height="699"
      inkscape:window-x="10"
@@ -50,10 +50,10 @@
      d="M 6,50 H 30 V 34 h 8 v 32 h 8 V 50 h 8 v 16 h 8 V 50 h 40 V 74 H 94 V 58 H 86 V 74 H 78 V 58 H 70 V 74 H 6 Z m 24,8 H 14 v 8 h 16 z"
      fill="#222222"
      id="path31066"
-     style="fill:#040507;fill-opacity:1;stroke-width:1;filter:url(#filter31104);opacity:0.54347245" />
+     style="fill:#030406;fill-opacity:1;stroke-width:1;filter:url(#filter31104);opacity:0.7" />
   <path
      d="M 6,50 H 30 V 34 h 8 v 32 h 8 V 50 h 8 v 16 h 8 V 50 h 40 V 74 H 94 V 58 H 86 V 74 H 78 V 58 H 70 V 74 H 6 Z m 24,8 H 14 v 8 h 16 z"
      fill="#222222"
      id="path3509"
-     style="fill:#eceff4;fill-opacity:1;stroke-width:1" />
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1" />
 </svg>
