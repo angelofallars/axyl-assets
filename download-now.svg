@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.26280163"
-     inkscape:cx="833.32817"
-     inkscape:cy="173.13439"
+     inkscape:cx="449.00787"
+     inkscape:cy="127.47257"
      inkscape:window-width="1340"
      inkscape:window-height="699"
      inkscape:window-x="10"
@@ -46,7 +46,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#325584;fill-opacity:1;stroke-width:0.281121"
+       style="fill:#244e84;fill-opacity:1;stroke-width:0.281121"
        id="rect846-6"
        width="414.73953"
        height="80.601234"
@@ -54,7 +54,7 @@
        y="15.650474"
        ry="27.518063" />
     <rect
-       style="fill:#4e7fbc;fill-opacity:1;stroke-width:0.281121"
+       style="fill:#3f7ecb;fill-opacity:1;stroke-width:0.281121"
        id="rect846"
        width="414.73953"
        height="80.601234"
@@ -65,18 +65,18 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,29.598017,-16.293628)"
        id="text2838"
-       style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2840);fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2840);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-miterlimit:4;stroke-dasharray:none"><tspan
          x="220.32422"
          y="294.24023"
-         id="tspan29951"><tspan
-           style="font-weight:bold;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';fill:#e5e9f0"
-           id="tspan29949">DOWNLOAD NOW!</tspan></tspan></text>
+         id="tspan9880"><tspan
+           style="font-weight:bold;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+           id="tspan9878">DOWNLOAD NOW!</tspan></tspan></text>
     <g
        id="g28821"
-       style="fill:#e5e9f0;fill-opacity:1"
+       style="fill:#ffffff;fill-opacity:1"
        transform="matrix(0.68418902,0,0,0.68418902,23.925561,2.2347035)">
       <rect
-         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="rect27136"
          width="46.841354"
          height="11.45725"
@@ -85,7 +85,7 @@
          ry="4.5279822"
          transform="rotate(45)" />
       <rect
-         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          id="rect27136-0"
          width="46.841354"
          height="11.45725"
@@ -94,7 +94,7 @@
          ry="4.5279822"
          transform="rotate(-45)" />
       <rect
-         style="fill:#e5e9f0;fill-opacity:1;stroke-width:0.287734"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.287734"
          id="rect27136-0-3"
          width="55.397404"
          height="11.45725"
